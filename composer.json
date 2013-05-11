@@ -1,0 +1,20 @@
+{
+    "name": "maba-oauth-commerce/php-lib-accounts",
+    "description": "PHP library for example accounts system API",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Marius Balčytis",
+            "email": "marius.balcytis@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Maba": "src/"
+        }
+    },
+    "require": {
+        "maba-oauth-commerce/php-lib-base": "*"
+    }
+}
